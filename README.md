@@ -27,7 +27,8 @@
 * [Wortell's KQL Rules](https://github.com/wortell/KQL)  
 * [KQLPublic](https://github.com/clivewatson/KQLpublic)  
 * [Matt Zorich's Repo](https://github.com/reprise99/Sentinel-Queries)  
-* [KQL-Intune](https://github.com/ugurkocde/KQL_Intune)    
+* [KQL-Intune](https://github.com/ugurkocde/KQL_Intune)
+* [KQL Definitive Guide](https://github.com/KQLMSPress/definitive-guide-kql)  
 ### KQL Workbooks
 * [Intro KQL](https://github.com/Azure/Azure-Sentinel/blob/master/Workbooks/IntrotoKQL.json)  
 * [Advanced KQL](https://github.com/Azure/Azure-Sentinel/blob/master/Workbooks/AdvancedKQL.json)  

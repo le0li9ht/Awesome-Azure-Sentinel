@@ -106,3 +106,7 @@
 ## Microsoft Defender For Identity
 ### Follow and Be Updated
 * [Youtube Channel](https://www.youtube.com/hashtag/microsoftdefenderforidentity)  
+
+## Azure Storage Accounts
+[Storage Account Matrix v2](https://aka.ms/StorageServicesThreatMatrix)  
+
